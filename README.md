@@ -24,4 +24,3 @@ You can use any one of the following procedure to make a database instance, and 
 
 # run unit tests
   `./run-tests.sh`
-
